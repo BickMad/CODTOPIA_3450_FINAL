@@ -109,11 +109,11 @@ if($conn->connect_error) {
                 
                   echo '<div class="u-border-6 u-border-white u-container-layout u-valign-bottom u-container-layout-1">';
 
-                  echo '<h4 class="u-align-center u-text u-text-custom-color-2 u-text-default u-text-1">'.$row['LOAD_NAME'].'</h4>';
+                  echo '<h4 class="u-align-center u-text u-text-default u-text-1" style="Color:Black">'.$row['LOAD_NAME'].'</h4>';
 
-                  echo '<h4 class="u-align-center u-text u-text-custom-color-2 u-text-3">'.$row['GUN_NAME'].'</h4>';
+                  echo '<h4 class="u-align-center u-text u-text-3 style="Color:Black"">'.$row['GUN_NAME'].'</h4>';
 
-                  echo '<p class="u-align-center u-text u-text-custom-color-2 u-text-4">'.$row['CLASS_DESCRIPTION'].'<br></p>';
+                  echo '<p class="u-align-center u-text u-text-4 style="Color:Black"">'.$row['CLASS_DESCRIPTION'].'<br></p>';
 
 
                   echo '<form action="See-Favorite.php" method="post">';
