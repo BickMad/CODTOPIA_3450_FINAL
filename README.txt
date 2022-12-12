@@ -1,5 +1,8 @@
 This readme page will tell you each file that is used/needed to make Codtopia work
 
+This site must be locally hosted... we used xampp to locally host it.
+
+
 The DATABASE can be found under Database.txt
 
 1. Home.php - This is the home page that displays some useful information about what Codtopia is and what it does
