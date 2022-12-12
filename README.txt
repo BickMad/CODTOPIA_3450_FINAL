@@ -1,5 +1,7 @@
 This readme page will tell you each file that is used/needed to make Codtopia work
 
+The DATABASE can be found under Database.txt
+
 1. Home.php - This is the home page that displays some useful information about what Codtopia is and what it does
 2. Home.CSS - This is the styling for the home page
 3. Create-a-Favorite.php - This is the page where you create a class using the drop down menus and submit button
